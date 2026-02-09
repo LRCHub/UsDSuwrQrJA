@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いとしき夢よ いざないて (MOVIE size)",
+  "base_artist": "三船栞子 (CV.小泉萌香)",
+  "createdAt": "2026-02-09T18:21:10.497707Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いとしき夢よ いざないて",
+      "artist": "三船栞子 (CV.小泉萌香)",
+      "has_synced": false,
+      "path": "select/pl_01_いとしき夢よ_いざないて_三船栞子_(CV.小泉萌香).txt"
+    }
+  ]
+}
